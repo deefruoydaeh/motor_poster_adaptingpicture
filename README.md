@@ -8,6 +8,10 @@ I was curious about the idea to construct an moving painting, adjust oneself to 
 ![](https://cloud.githubusercontent.com/assets/12065257/10164096/eaa823b2-66b7-11e5-8826-851757a26c89.jpg)
 sketch of idea "Adaptingpicture"
 
+After premeditating the result I wanted to get and listing anything I might need, I decidet to bound my aims and reduced the to measured parameters to the movement. The ocean in the picture should be partitioned in six pieces back-mounted on moving circeling metals. The circle size and should vary to give the observer a plastic feeling of a three-dimensional view.
+
+
+
 ##Prerequisite
 
 1. **engineering**
