@@ -3,7 +3,7 @@
 
 ##Prerequisite
 
-**engineering**
+1. **engineering**
 
   12V engine
   
@@ -14,14 +14,14 @@
   12V power supply
   
 
-**frame**
+2. **frame**
 
   self-built picture frame with glass panel
   
   different gold spray-paint for vintage look
 
 
-**requisites**
+3. **requisites**
 
   polystyrene block for mountain
   
