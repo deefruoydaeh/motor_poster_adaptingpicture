@@ -27,13 +27,13 @@
   
   model-making
   
-  ⋅⋅*artificial turfs
+  artificial turfs
   
-  ⋅⋅*many different trees
+  many different trees
   
-  ⋅⋅*house
+  house
   
-  ⋅⋅*fence
+  fence
   
   six self-painted waves
   
