@@ -19,6 +19,9 @@ The frame was built by my boyfriend, who works as a carpenter and was varnished 
 ![](https://cloud.githubusercontent.com/assets/12065257/10168351/aedaa9a8-66cc-11e5-828a-787340365966.jpg)
 ![](https://cloud.githubusercontent.com/assets/12065257/10168352/aedc88e0-66cc-11e5-99fc-a6ae610ad7af.jpg)
 
+![konstrukt](https://cloud.githubusercontent.com/assets/12065257/10169287/b0b83d04-66d0-11e5-85b6-81ceee8c2686.gif)
+
+
 ##Prerequisite
 
 1. **engineering**
@@ -30,6 +33,10 @@ The frame was built by my boyfriend, who works as a carpenter and was varnished 
   Aduino board
   
   12V power supply
+  
+  several toothed wheels 
+  
+  metal bars
   
 
 2. **frame**
