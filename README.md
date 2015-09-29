@@ -1,6 +1,10 @@
 #README
 ##Motor Poster Adaptingpicture
 
+This project was about creating an motorized poster or object, which is supposed to react on the room and the people without a direct input like a mouse or keyboard. 
+
+I was curious about the idea to construct an moving painting, adjust oneself to parameters of the room or the people like noise, light and movement. 
+
 ![](https://cloud.githubusercontent.com/assets/12065257/10164096/eaa823b2-66b7-11e5-8826-851757a26c89.jpg)
 sketch of idea "Adaptingpicture"
 
