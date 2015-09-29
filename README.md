@@ -1,6 +1,8 @@
 #README
 ##Motor Poster Adaptingpicture
 
+![](https://cloud.githubusercontent.com/assets/12065257/10164096/eaa823b2-66b7-11e5-8826-851757a26c89.jpg)
+
 ##Prerequisite
 
 1. **engineering**
