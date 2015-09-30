@@ -25,7 +25,7 @@ The frame was built by my boyfriend, who works as a carpenter. To give it an aut
 the machanics were pretty tricky. I first I tried to solve the problems of an allways exact and synchronal flow of the waves by different arrangements of V-belts. Unfortunately that did not work out and I switched to an more effectiv but not that elegant solution. I conected all toothed wheels to one big system. This way I had every movement synchronal, but also enlarged the resistence. But finally it worked out and was ready to get to the engine.
 
 
-![konstrukt](https://cloud.githubusercontent.com/assets/12065257/10169287/b0b83d04-66d0-11e5-85b6-81ceee8c2686.gif)
+<center>![konstrukt](https://cloud.githubusercontent.com/assets/12065257/10169287/b0b83d04-66d0-11e5-85b6-81ceee8c2686.gif)</center>
 
 
 ##Prerequisite
