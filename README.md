@@ -72,7 +72,9 @@ The machanics were pretty tricky. I first I tried to solve the problems of an al
 
 <center>![konstrukt](https://cloud.githubusercontent.com/assets/12065257/10169287/b0b83d04-66d0-11e5-85b6-81ceee8c2686.gif)</center>
 
-The weight of the painted waves on the mechanics made it to hard for the engine to move at all. But fortunatly mechanic oil like WD-40 gave it the nesessary  frictionlessness to work out. Not as smooth as planned, the person had to get very close to the sensor to induce the required values and make the ocean move, but it performed satisfying.
+Distance sensor are pretty fragil. Mine got broken some days befor the presentation. Therefore I had to switch spontaneous to the more improper unit from aduino. The code was written by Fabian Morón Zirfas and edits among others the variable the signal of the sensor. Depending on that it regulates the movement by defining the energy output. 
+
+The weight of the painted waves on the mechanics made it to hard for the engine to move at all. But fortunatly mechanic oil like WD-40 gave it the nesessary frictionlessness to work out. Not as smooth as planned, the person had to get very close to the sensor to induce the required values and make the ocean move, but it performed satisfying and charmed observer and made them laugh.
 
 ##License
 
